@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\controllers\\bookcategoiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\controllers\\bookcategoiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\helper\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\helper\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\services\\ibookcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\services\\ibookcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\services\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\services\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\services\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\services\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\services\\bookcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\services\\bookcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\data\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\data\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\data\\dtos\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\data\\dtos\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\data\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\data\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\data\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\data\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\fluentvalidation\\bookdtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\fluentvalidation\\bookdtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\automapper\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\automapper\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\automapper\\bookcategorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\automapper\\bookcategorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\fluentvalidation\\orderdtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\fluentvalidation\\orderdtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\data\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\data\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\migrations\\20240909074344_initcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\migrations\\20240909074344_initcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\helper\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\helper\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\data\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\data\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|c:\\users\\vip\\source\\repos\\on_lbrary_system\\on_lbrary_system\\on_lbrary_system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3A60FD0A-C8B8-47CF-AB5F-D05E333590D3}|On_Lbrary_System\\Online_Lbrary_System.csproj|solutionrelative:on_lbrary_system\\on_lbrary_system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\IBookServices.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Services\\IBookServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\IBookServices.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Services\\IBookServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:00:57.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookCategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\IBookCategoryServices.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Services\\IBookCategoryServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\IBookCategoryServices.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Services\\IBookCategoryServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:15:34.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:14:44.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCategoiesController.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Controllers\\BookCategoiesController.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Controllers\\BookCategoiesController.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Controllers\\BookCategoiesController.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Controllers\\BookCategoiesController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAuwDQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:04:48.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:29:24.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:10:10.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Helper\\Role.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Helper\\Role.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Helper\\Role.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Helper\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:03:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Program.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Program.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Program.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:05:25.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\IOrderServices.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Services\\IOrderServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\IOrderServices.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Services\\IOrderServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:24:39.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookCategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\BookCategoryServices.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Services\\BookCategoryServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\BookCategoryServices.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Services\\BookCategoryServices.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwEYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:15:53.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\BookServices.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Services\\BookServices.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowGsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:01:19.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Services\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\IAuthServices.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Services\\IAuthServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T05:18:55.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\AuthServices.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Services\\AuthServices.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAmwKoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:15:43.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Data\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Data\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:22:06.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Dtos\\AddOrderDto.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Data\\Dtos\\AddOrderDto.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Dtos\\AddOrderDto.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Data\\Dtos\\AddOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:54:47.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Dtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Data\\Dtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Dtos\\BookDto.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Data\\Dtos\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:11:08.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Data\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Data\\Dtos\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:55:56.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookDtoValidation.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\FluentValidation\\BookDtoValidation.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\FluentValidation\\BookDtoValidation.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\FluentValidation\\BookDtoValidation.cs",
+              "RelativeToolTip": "On_Lbrary_System\\FluentValidation\\BookDtoValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:35:51.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderMapper.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\AutoMapper\\OrderMapper.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\AutoMapper\\OrderMapper.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\AutoMapper\\OrderMapper.cs",
+              "RelativeToolTip": "On_Lbrary_System\\AutoMapper\\OrderMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:14:24.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDtoValidation.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\FluentValidation\\OrderDtoValidation.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\FluentValidation\\OrderDtoValidation.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\FluentValidation\\OrderDtoValidation.cs",
+              "RelativeToolTip": "On_Lbrary_System\\FluentValidation\\OrderDtoValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:55:22.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookCategoryMapper.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\AutoMapper\\BookCategoryMapper.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\AutoMapper\\BookCategoryMapper.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\AutoMapper\\BookCategoryMapper.cs",
+              "RelativeToolTip": "On_Lbrary_System\\AutoMapper\\BookCategoryMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T18:15:18.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Data\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Model\\Order.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Data\\Model\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:36:11.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Services\\OrderServices.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Services\\OrderServices.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Services\\OrderServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:24:54.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240909074344_initCreated.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Migrations\\20240909074344_initCreated.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Migrations\\20240909074344_initCreated.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Migrations\\20240909074344_initCreated.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Migrations\\20240909074344_initCreated.cs",
+              "ViewState": "AQIAADsBAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T07:43:44.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JWT.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Helper\\JWT.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Helper\\JWT.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Helper\\JWT.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Helper\\JWT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:08:08.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\Data\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\Data\\Model\\Book.cs",
+              "RelativeToolTip": "On_Lbrary_System\\Data\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T17:10:40.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "On_Lbrary_System.http",
+              "DocumentMoniker": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\On_Lbrary_System.http",
+              "RelativeDocumentMoniker": "On_Lbrary_System\\On_Lbrary_System.http",
+              "ToolTip": "C:\\Users\\vip\\source\\repos\\On_Lbrary_System\\On_Lbrary_System\\On_Lbrary_System.http",
+              "RelativeToolTip": "On_Lbrary_System\\On_Lbrary_System.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-09T05:24:53.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

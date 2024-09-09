@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Online_Lbrary_System.props" />
+</Project>
